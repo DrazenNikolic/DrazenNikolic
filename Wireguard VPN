@@ -1,0 +1,9 @@
+install Debian
+
+sudo su -
+
+sudo apt install wget
+
+wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh
+
+nano /root/XXXXXX.conf
