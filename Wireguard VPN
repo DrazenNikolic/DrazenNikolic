@@ -1,4 +1,4 @@
-install Debian
+install Debian via Azure VM
 
 sudo su -
 
